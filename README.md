@@ -1,4 +1,14 @@
-# clone Amazon
+
+<div align="center">
+  <h1>🗣️ clone Amazon</h1>
+  <p align="center">
+    🐦 <a href="xxxxxx">xxxxxx</a> • 
+    🤗 <a href="xxxxxx">xxxxxxxx</a> • 
+    💻 <a href="xxxxxxx">xxxxxxxx</a> • 
+  </p>
+</div>
+<br/>
+
 
 Press  Alt   Enter  with your caret at the highlighted text to see how IntelliJ IDEA suggests fixing it.
 > [!IMPORTANT]  
